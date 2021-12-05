@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "Ayush",
+      "contact": 123456789,
+      "address": "UP",
+      "email": "ayush@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Amit",
+      "contact": 3245435233,
+      "address": "Delhi",
+      "email": "amit@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Rohit",
+      "contact": 43434234,
+      "address": "Mumbai",
+      "email": "rohiy@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "contact": "12345678",
+      "address": "Pune",
+      "id": 4
+    },
+    {
+      "name": "Monika Yadav",
+      "email": "monika@gmail.com",
+      "contact": "4532124546",
+      "address": "Goa",
+      "id": 5
+    }
+  ]
+}
